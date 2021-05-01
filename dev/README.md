@@ -44,3 +44,6 @@ Em "**Delete**"  inclua o id do usuário desejado no final do **"/localhost:3000
 
 #### - **Alterando o registro do usuário:**
 Em "**Patch**"  inclua o id do usuário desejado no final do **"/localhost:3000/clientes/"** e clique em "**Send request**" para alterar um ou mais parametros do usuário.
+
+#### - **Consutando a lista de usuários:**
+Em "**GET**" e clique em "**Send request**" para fazer a consulta dos usuários cadastrados.
